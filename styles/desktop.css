@@ -1,0 +1,46 @@
+@media all and (min-width: 1024px){ 
+
+    h1{
+        font-size: 3em;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #down-arrow{
+        height: 50px;
+        width: 50px;
+    }
+
+    #player-bandcamp{
+        width: 500px;
+        height: 500px;
+    }
+
+    #glue-video{
+        width: 960px;
+        height: 480px;
+    }
+
+
+    .flyer{
+        width: 450px;
+        /* height: 450px; */
+    }
+
+    #band-shot {
+        padding-top: 5%;
+        max-width: 960px;
+        max-height: fit-content;
+    }
+
+
+    #album-container{
+        max-width: 960px;
+    }
+
+
+    .album-cover{
+        width: 300px;
+    }
+}

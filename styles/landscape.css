@@ -1,0 +1,18 @@
+@media all and (min-width: 768px) and (max-width: 1024px) { 
+
+    #player-bandcamp{
+        height: 300px;
+        width: 300px;
+        border: none;
+    }
+
+    #glue-video{
+        width: 600px;
+        height:300px;
+    }
+
+    .album-cover{
+        width: 250px;
+    }
+
+}
