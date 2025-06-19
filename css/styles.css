@@ -84,6 +84,9 @@ Main Header
   color: #ffffff;
 }
 
+.main-header a{
+  margin: auto;
+}
 #banner{
   width: 700px;
   height: 110px;
